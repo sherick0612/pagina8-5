@@ -2,17 +2,59 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(8, 4, 4);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("nubes.jpg");
+    
+
+}
+.titulo{
+font-size: 60px;
+color: red;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 162px;
+    width: 300px;
+    background-image: url("computador.jpg");
     background-repeat: no-repeat;
+    float: left;
+}
+.img2_tecnologia{
+    height: 162px;
+    width: 315px;
+    background-image: url("Circuito_serie.png");
+    background-repeat: no-repeat;
+    float:left;
+
+}
+.img3_tecnologia{
+    height: 162px;
+    width: 354px;
+    background-image: url("Circuito_paralelo.png");
+    background-repeat: no-repeat;
+    float:left;
+      
+
+}
+.img4_tecnologia{
+    height: 162px;
+    width: 300px;
+    background-image: url("Circuito_mixto.png");
+    background-repeat: no-repeat;
+    float:left;
+      
 
 }
