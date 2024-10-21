@@ -33,7 +33,16 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
     }
 
+.titulo_terc{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 
+
+
+}
 
 .img1{
     height: 162px;
@@ -74,4 +83,15 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url("Imagen_per3.JPEG");
     background-repeat: no-repeat;
     float:left;
+}
+
+.img_matem_per3_1{
+    height: 350px;
+    width: 610px;
+    background-image: url("matematicas_per3_img1.jpg");
+    background-repeat: no-repeat;
+    
+    float:inline-start;
+
+
 }
